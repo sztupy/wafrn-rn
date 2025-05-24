@@ -96,9 +96,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'dev.djara.wafrn_rn'
+    namespace 'hu.sztupy.wafrn_rn'
     defaultConfig {
-        applicationId 'dev.djara.wafrn_rn'
+        applicationId 'hu.sztupy.wafrn_rn'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         // versionCode is an increasing number representing the version

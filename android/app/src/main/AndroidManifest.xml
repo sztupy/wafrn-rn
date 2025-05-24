@@ -34,7 +34,7 @@
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="wafrn"/>
-        <data android:scheme="dev.djara.wafrn_rn"/>
+        <data android:scheme="hu.sztupy.wafrn_rn"/>
         <data android:scheme="exp+wafrn-rn"/>
       </intent-filter>
       <intent-filter android:autoVerify="true" data-generated="true">

@@ -19,7 +19,7 @@ export default {
     platforms: ['ios', 'android'],
     ios: {
       supportsTablet: true,
-      bundleIdentifier: 'dev.djara.wafrn-rn',
+      bundleIdentifier: 'hu.sztupy.wafrn_rn',
       infoPlist: {
         ITSAppUsesNonExemptEncryption: false,
         NSPhotoLibraryAddUsageDescription:
@@ -32,7 +32,7 @@ export default {
         backgroundColor: '#151718',
       },
       permissions: [],
-      package: 'dev.djara.wafrn_rn',
+      package: 'hu.sztupy.wafrn_rn',
       intentFilters: [
         {
           action: 'VIEW',
@@ -65,12 +65,12 @@ export default {
         origin: false,
       },
       eas: {
-        projectId: '8453855c-b400-4d59-bd72-0ebfa1a95eb2',
+        projectId: '1e73ecdd-4a5b-452a-8cc2-9b36ca469515',
       },
     },
     runtimeVersion: pkg.version,
     updates: {
-      url: 'https://u.expo.dev/8453855c-b400-4d59-bd72-0ebfa1a95eb2',
+      url: 'https://u.expo.dev/1e73ecdd-4a5b-452a-8cc2-9b36ca469515',
     },
   } satisfies ExpoConfig,
 }

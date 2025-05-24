@@ -1,4 +1,4 @@
-package dev.djara.wafrn_rn
+package hu.sztupy.wafrn_rn
 
 import android.app.Application
 import android.content.res.Configuration
